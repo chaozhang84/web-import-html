@@ -1,0 +1,15 @@
+{
+  "name": "web-import-html",
+  "version": "0.0.1",
+  "description": "静态文件管理",
+  "private": true,
+  "cacheDirectories": [
+    "node_modules"
+  ],
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-html-import": "0.0.2",
+    "browser-sync": "^1.9.2",
+    "gulp-clean": "^0.3.2"
+  }
+}

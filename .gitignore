@@ -1,0 +1,44 @@
+######################
+# Node
+######################
+/node/**
+/node_tmp/**
+/node_modules/**
+/dist/**
+/dist-dev/**
+/src/lib/**
+######################
+# SASS
+######################
+.sass-cache/**
+######################
+# Intellij
+######################
+.idea/**
+*.iml
+*.iws
+*.ipr
+*.ids
+*.orig
+
+Thumbs.db
+# Folder config file
+Desktop.ini
+######################
+# Mac OSX
+######################
+.DS_Store
+.svn
+# Thumbnails
+._*
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+######################
+# Logs
+######################
+*.log
+######################
+# ESLint
+######################
+.eslintcache

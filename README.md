@@ -1,2 +1,7 @@
-# web-import-html
-gulp实现静态html文件互相引入
+先安装好node环境，按顺序执行以下命令。执行完成后dist内文件为最终html文件
+```
+npm install
+```
+```bash
+gulp
+```
